@@ -1,0 +1,12 @@
+# Verilog, System verilog, Quartus, Model sim
+work*
+wlf*
+transcript
+vsim.wlf
+.vscode/*
+*.bak
+*.vcd
+
+# Python
+__pycache__/*
+*.pyc

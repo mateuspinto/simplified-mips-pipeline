@@ -1,2 +1,3 @@
 # simplified-mips-pipeline
-A synthesizable simplified MIPS written in System Verilog
+
+A simplified mips with pipeline using my own verilog/system verilog boilerplate
